@@ -1,2 +1,2 @@
-# Cyrox Softech CIV
+# Cyrox Softech
 This a ✨special ✨ repository for the organization's profile. 
